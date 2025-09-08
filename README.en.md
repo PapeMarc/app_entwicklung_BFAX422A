@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = """# Documentation of My App Extension
+# Documentation of My App Extension
 
 ## Foreword
 During my studies in Applied Computer Science at the University of Applied Sciences for Business (FHDW) in Bergisch Gladbach, an Android app was implemented for learning purposes as part of the “App Project” module in the 3rd semester under the supervision of Dr. Christian Soltenborn. This app, which was developed together during the module, is now to be extended with a self-chosen functionality as part of a project. This extension is part of the module’s assessment.
